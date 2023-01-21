@@ -7,4 +7,5 @@ y =x[7:]
 print(y)
 z = x[:6]
 print(z)
-print(x)
+print(x+y)
+print(y+z)
